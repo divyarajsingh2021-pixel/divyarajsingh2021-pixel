@@ -68,5 +68,5 @@ Most language tools are built around widely-spoken languages and leave regional 
 <br/>
 
 <div align="center">
-<i>Building tools that solve real problems — for languages, communities, and everyday people. Open to collaborating on AI, web, and hackathon projects.</i>
+<i>Building tools that solve real problems — for languages, communities, and everyday people. Open to collaborating on AI, web, and Hackathon projects.</i>
 </div>
