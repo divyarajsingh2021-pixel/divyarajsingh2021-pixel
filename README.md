@@ -1,72 +1,58 @@
-<div align="center">
+Hi there, I'm Divyaraj Singh Chundawat 👋 ⚡
+AI Engineer · Full-Stack Developer · 3D Web & Computer Vision Builder
 
-# Divyaraj Singh
+GitHub followers
+Live Demos
+Email
 
-**BCA Student · Building AI & Web Projects**
+"I build things you can actually click, speak to, rotate in 3D, or interact with in real time — combining deep learning, RAG systems, and responsive web architectures."
 
-I like turning ideas into things you can actually click, drive, or talk to — currently deep into 3D web experiences, gesture-based interfaces, and AI-powered tools built for real people, not just demos.
+🏆 Featured Flagship Projects
+🌊 1. FloatChat 3D — AI-Powered Ocean Intelligence Platform
 
-[![Email](https://img.shields.io/badge/Email-divyarajsingh2021%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:divyarajsingh2021@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-divyarajsingh2021--pixel-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/divyarajsingh2021-pixel)
+Built for Smart India Hackathon (SIH) 2026 · Ministry of Earth Sciences (MoES) / INCOIS
 
-</div>
+🌐 Live Demo: tag-sih26-25qudjx3nnn4dqqhkcwwof.streamlit.app
+What it does: Fuses 10,800+ real ARGO in-situ ocean profiles with 3D WebGL rotating earth globes, ESRI satellite drift physics tracking, depth stratification curves (0–2000m), and Outrage, a voice-first conversational AI powered by Groq's Qwen-27B on LPUs.
+Tech: Python · Streamlit · Plotly 3D WebGL · Groq LPU · xarray/NetCDF · RAG · Web Speech API
+📚 2. AI Study Assistant
 
-<br/>
+Intelligent Note-Taking & Retrieval-Augmented Generation (RAG) System
 
-## 🌟 Featured Project — Manas AI
+What it does: AI-driven document intelligence tool that ingests custom student notes and enables interactive semantic search and multi-turn contextual Q&A using RAG pipelines.
+Tech: Python · FastAPI · RAG · LLMs · Vector DB · JavaScript
+🗣️ 3. Manas AI — Mewari Dialect IT Mentor
 
-**An AI that speaks Mewari** — built to help people learn and get better at their own native dialect, not replace it with English.
+Lakecity Hackathon 2026 Innovation
 
-Most language tools are built around widely-spoken languages and leave regional dialects behind. **Manas AI** takes the opposite approach: it's a conversational assistant designed specifically to understand and speak **Mewari**, helping native speakers strengthen their command of their own language rather than lose it to more "mainstream" alternatives. Built for the **Lakecity Hackathon 2026**, entirely in vanilla JavaScript, HTML5, and CSS — no frameworks, no shortcuts.
+What it does: First-of-its-kind native conversational assistant designed specifically for the Mewari dialect, preserving regional linguistic heritage while mentoring users in technology.
+Tech: Vanilla JavaScript · HTML5 · CSS3 · NLP
+🏎️ 4. DSC 3D Driving Simulator
 
-- 🗣️ Understands and responds in the Mewari dialect
-- 🎯 Focused on native-language fluency, not translation-away-from-it
-- ⚙️ Built from scratch with vanilla JS — no framework dependencies
-- 🏆 Developed for Lakecity Hackathon 2026
+Browser-Based Interactive Vehicle Physics Simulation
 
-**[→ View the repository](https://github.com/divyarajsingh2021-pixel/Manas-Ai)**
+What it does: Real-time 3D simulation exploring interactive camera angles, realistic physics calculations, and responsive input mechanics right in the browser.
+Tech: JavaScript · Canvas / WebGL · Physics Engine
+✋ 5. Hand Gesture Control Interface (DSC)
 
-<br/>
+Computer Vision & Human-Computer Interaction
 
-## 🚀 Other Projects
+What it does: Touchless human-computer interface using optical hand gesture tracking and landmark detection for natural system navigation.
+Tech: Computer Vision · JavaScript · HTML5 / WebRTC
+🛠️ Tech Stack & Toolbox
+Domain	Technologies
+Languages	Python, JavaScript (ES6+), HTML5, CSS3, SQL
+AI & Machine Learning	RAG Systems, LLM Prompt Engineering, Groq LPU, Sentence Transformers, Vector Search, PyTorch
+Data & Scientific	NumPy, Pandas, xarray, NetCDF4, PyArrow Parquet, SciPy
+3D & Visualization	Plotly WebGL, 3D Orthographic Projections, Mapbox / ESRI GIS, Canvas API
+Web & Backend	Streamlit, FastAPI, REST APIs, Web Speech API, Node.js
+DevOps & Tools	Git / GitHub, Docker, Streamlit Cloud, VS Code
+📊 GitHub Analytics & Activity
+ 
+GitHub Streak
+📬 Let's Connect!
+💼 GitHub: @divyarajsingh2021-pixel
+📧 Email: divyarajsingh2021@gmail.com
+🎓 Education: Mohan Lal Sukhadia University (MLSU), Udaipur
 
-| Project | Description |
-|---|---|
-| 🏎️ **[dsc-driving-simulator](https://github.com/divyarajsingh2021-pixel/dsc-driving-simulator)** | 3D driving simulator controlled entirely by hand gestures — Three.js, Vite, and MediaPipe Hands, with live oncoming traffic, weather cycles, and a full physics model |
-| ✋ **[Hand-gesture-DSC](https://github.com/divyarajsingh2021-pixel/Hand-gesture-DSC)** | Gesture recognition experiments — the groundwork behind the driving simulator's control scheme |
-| 🛠️ **[manas-it-center](https://github.com/divyarajsingh2021-pixel/manas-it-center)** | IT center project |
-
-<br/>
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
-<br/>
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=divyarajsingh2021-pixel&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyarajsingh2021-pixel&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=divyarajsingh2021-pixel&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<i>Building tools that solve real problems — for languages, communities, and everyday people. Open to collaborating on AI, web, and Hackathon projects.</i>
-</div>
+⚡ Always building, exploring new AI frontiers, and hacking on high-impact projects.
